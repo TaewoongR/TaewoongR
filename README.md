@@ -10,12 +10,6 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-00599C?style=flat&logo=r&logoColor=white)
 
 ### Tech Stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
